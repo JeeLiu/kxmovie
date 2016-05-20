@@ -113,6 +113,7 @@ FFMPEG_LIBS = [
 'libavutil',
 'libswscale',
 'libswresample',
+'libavfilter'
 ]
 
 def mkArgs(platformPath, sdkPath, platformArgs)
